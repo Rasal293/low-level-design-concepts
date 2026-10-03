@@ -44,7 +44,11 @@ class Client2{
 		if(balance.isGreaterThan(request)) {
 			dispenseFunds(request);
 		}
-
+public class Money 
+   {
+     a=1.0;
+     b=2.0;
+   }
 	}
 }
 
