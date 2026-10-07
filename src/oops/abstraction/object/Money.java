@@ -44,11 +44,6 @@ class Client2{
 		if(balance.isGreaterThan(request)) {
 			dispenseFunds(request);
 		}
-public class vlaue 
-   {
-     a=1.0;
-     b=2.0;
-   }
 	}
 }
 
